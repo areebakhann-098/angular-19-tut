@@ -1,0 +1,27 @@
+.course_box{
+    position: relative;
+    align-content: space-between;
+      
+}
+img {
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+    height: 100%;
+}
+
+.main-content {
+    position: absolute;
+    top: 40%;
+    left: 20%;
+    margin-left: 3rem;
+    transform: translate(-50%, -50%);
+    h1 {
+        font-size: 2rem;
+    }
+}
+
+section.courses {
+    background-color: #effeff;
+    padding: 6vh;
+}

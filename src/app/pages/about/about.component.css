@@ -1,0 +1,15 @@
+.about-us {
+    padding-bottom: 10vh;
+    background-color: rgb(249, 227, 247);
+  }
+  
+  img {
+    object-fit: cover;
+    background: #b87e5a;
+    margin-top: 1rem;
+  }
+  
+  h4 {
+      margin-top: 10px;
+  }
+  

@@ -1,0 +1,42 @@
+.box {
+  background-color: #fff;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 10px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.course-image {
+  display: flex;
+  align-items: center;
+  
+}
+
+.course-image img {
+  width: 200px;
+  height: 200px; 
+  object-fit: cover;
+  border-radius: 5px;
+}
+
+.course-text {
+  text-align: left;
+  width: 100%;
+}
+
+h3 {
+  margin-top: 10px;
+  font-size: 1.2rem;
+}
+
+p {
+  margin-top: 5px;
+  font-size: 0.9rem;
+  color: #555;
+}
+button{
+  position:absolute;
+
+}
